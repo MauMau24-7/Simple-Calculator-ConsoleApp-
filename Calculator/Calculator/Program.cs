@@ -43,9 +43,10 @@ try
 
 catch (Exception ex)
 {
-    Console.WriteLine("Fehler: " + ex);
+    Console.WriteLine("Error: " + ex);
 }
 
 
 
 Console.ReadKey();
+
